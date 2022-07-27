@@ -23,8 +23,8 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aqE-ge-zBK">
-                                <rect key="frame" x="191" y="505" width="46" height="36"/>
-                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <rect key="frame" x="187.66666666666666" y="505" width="53" height="41"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="24"/>
                                 <state key="normal" title="start">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
